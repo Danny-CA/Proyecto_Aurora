@@ -1,4 +1,4 @@
-# Proyecto Aurora
+# Project Aurora
 Haciendo una primer busqueda de las tiendas de diversos establecimientos, me percato que la tienda que tiene mayor numero de reviews por usuarios es pick & go
 pero existe la posibilidad de que me encuentre analizando tiendas que no estan en servicio, para ello agrego una validación
 utilizando el campo STATUS != 'OPERATIONAL' este me indica que solo existe una tienda que ya no esta en operación que se encuentra en 
@@ -7,6 +7,6 @@ para ella, por lo que no afecta en mi análisis preeliminar
 
 # Number of users
 [![users.png](https://i.postimg.cc/bNQsgvHs/users.png)](https://postimg.cc/XpYj74Pb)
-
+Número de usuarios que 
 # Ratings of the stores
 [![ratings.png](https://i.postimg.cc/g2mrTPN4/ratings.png)](https://postimg.cc/56KxXDcF)
