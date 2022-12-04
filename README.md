@@ -4,5 +4,5 @@ pero existe la posibilidad de que me encuentre analizando tiendas que no estan e
 utilizando el campo STATUS_.... ese campo me indica que solo existe una tienda que ya no esta en operación que se encuentra en 
 C. de Bucareli 1115, Vasco de Quiroga, Morelia' tienda extra,  despues de revisar esta tienda, me percato que no existe ningun review
 para ella, por lo que no afecta en mi análisis preeliminar
-url=https://postimg.cc/56KxXDcF][img]https://i.postimg.cc/56KxXDcF/ratings.png[/img][/url
-url=https://postimg.cc/XpYj74Pb][img]https://i.postimg.cc/XpYj74Pb/users.png[/img][/url
+[![users.png](https://i.postimg.cc/bNQsgvHs/users.png)](https://postimg.cc/XpYj74Pb)
+[![ratings.png](https://i.postimg.cc/g2mrTPN4/ratings.png)](https://postimg.cc/56KxXDcF)
