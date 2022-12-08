@@ -39,6 +39,7 @@ for her, so it does not affect my preliminary analysis.
 
 # Results
 [![Figure-todos.png](https://i.postimg.cc/RZ8m1kRc/Figure-todos.png)](https://postimg.cc/DSqRnYRZ)
+
 Number of store ratings.
 
 # Conclusions
