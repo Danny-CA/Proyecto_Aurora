@@ -12,13 +12,14 @@ GNU General Public License v3.0
 
 # Installation
 To install simply download the zip file of the code or copy it into your preferred IDE and through your terminal install the following libraries with the command pip install " "
+- ipython
 - requests
 - credentials
 - matplotlib
 - ploty
 
 # Ejecution
-Once you have everything installed, simply run the file in your terminal.
+Once you have everything installed open the ipython shell and run the file in your terminal.
 
 
 # Introduction
@@ -31,7 +32,7 @@ Scientific method.
 # Implementation
 It can be implemented to compare store statistics and the conclusion of the user if the experience was pleasant, cleanliness of the establishment, treatment of the workers to the user, knowing what is good and what is bad. All this can be as a web service, in an application, even any company can integrate it into its system in order to be more competitive with its competition.
 
-# Testes
+# Tests
 Doing a first search among the different establishments, I realize that the store that has the greatest number of opinions from users is pick & go
 but there is a possibility that I find myself analyzing stores that are not in service, for this I add a validation
 using the field STATUS != 'OPERATIONAL' this tells me that there is only one store that is no longer in operation that is in
@@ -48,5 +49,6 @@ In conclusion, the best rated store with the most user reviews is pick & go.
 
 # Bibliogtraphy
 - https://github.com/googlemaps/google-maps-services-python
-- https://developers.google.com/maps
 - https://www.google.com.mx/maps?hl=es-419&tab=rl
+- https://developers.google.com/maps
+
