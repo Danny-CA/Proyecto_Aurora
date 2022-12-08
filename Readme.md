@@ -18,9 +18,12 @@ To install simply download the zip file of the code or copy it into your preferr
 - matplotlib
 - ploty
 
+[![Screenshot-121.png](https://i.postimg.cc/v8g6yy1V/Screenshot-121.png)](https://postimg.cc/z3Nfw9Fz)
+
 # Ejecution
 Once you have everything installed open the ipython shell and run the file in your terminal.
-[![Screenshot-121.png](https://i.postimg.cc/v8g6yy1V/Screenshot-121.png)](https://postimg.cc/z3Nfw9Fz)
+[![Screenshot-120.png](https://i.postimg.cc/7YNP8tNz/Screenshot-120.png)](https://postimg.cc/0bb17fF5)
+
 
 
 # Introduction
