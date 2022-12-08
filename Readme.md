@@ -1,5 +1,6 @@
 # Project Aurora
 [![aurora-polar-en-las-montanas-8458.jpg](https://i.postimg.cc/nzJ60pQQ/aurora-polar-en-las-montanas-8458.jpg)](https://postimg.cc/v10qmRhQ)
+
 # Author
 Carlos Daniel Camilo Aguilar
 
@@ -40,7 +41,7 @@ for her, so it does not affect my preliminary analysis.
 # Results
 [![Figure-todos.png](https://i.postimg.cc/RZ8m1kRc/Figure-todos.png)](https://postimg.cc/DSqRnYRZ)
 
-Number of store ratings.
+Number of store ratings 2021.
 
 # Conclusions
 In conclusion, the best rated store with the most user reviews is pick & go.
@@ -48,3 +49,4 @@ In conclusion, the best rated store with the most user reviews is pick & go.
 # Bibliogtraphy
 - https://github.com/googlemaps/google-maps-services-python
 - https://developers.google.com/maps
+- https://www.google.com.mx/maps?hl=es-419&tab=rl
