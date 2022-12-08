@@ -41,6 +41,7 @@ for her, so it does not affect my preliminary analysis.
 [![Figure-todos.png](https://i.postimg.cc/RZ8m1kRc/Figure-todos.png)](https://postimg.cc/DSqRnYRZ)
 Number of store ratings.
 
+
 [![users.png](https://i.postimg.cc/bNQsgvHs/users.png)](https://postimg.cc/XpYj74Pb)
 Number of users who rate the stores.
 
@@ -48,5 +49,5 @@ Number of users who rate the stores.
 In conclusion, the best rated store with the most user reviews is pick & go.
 
 # Bibliogtraphy
-https://github.com/googlemaps/google-maps-services-python
-https://developers.google.com/maps
+- https://github.com/googlemaps/google-maps-services-python
+- https://developers.google.com/maps
