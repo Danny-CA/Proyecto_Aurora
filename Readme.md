@@ -1,26 +1,26 @@
-#Project Aurora
+# Project Aurora
 
-#Author
+# Author
 Carlos Daniel Camilo Aguilar
 
-#Contact
+# Contact
 mordexcamiloaguilar878689@gmail.com
 
-#License
+# License
 GNU General Public License v3.0
 
-#Installation
+# Installation
 To install simply download the zip file of the code or copy it into your preferred IDE and through your terminal install the following libraries with the command pip install " "
 - requests
 - credentials
 - matplotlib
 - ploty
 
-#Ejecution
+# Ejecution
 Once you have everything installed, simply run the file in your terminal.
 
 
-#Introduction
+# Introduction
 This project focuses on the Google Maps Platform APIs with Postman with the post and get methods to find the mini-supermarkets best rated by users in the city of Morelia, Michoacán, México (19.70078, -101.18443) within a radius of 10 km from the aforementioned area. We worked with only 6 of the "best" known stores in Mexico, which are oxxo, 7 eleven, modelorama, Extra, Circle k and pick & go.
 Doing a first search of the various establishments, I realize that the store that has the highest number of reviews by users is pick & go
 but there is a possibility that I find myself analyzing stores that are not in service, for this I add a validation
